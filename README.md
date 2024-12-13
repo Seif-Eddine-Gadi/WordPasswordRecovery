@@ -62,7 +62,7 @@ If you don’t want to mess with Python and dependencies, you can download the p
 ## Acknowledgements
 
  - [PyQt5](https://pypi.org/project/PyQt5/) Used for building the graphical user interface (GUI).
- - [Python](https://github.com/matiassingers/awesome-readme) Used for scripting and automation.
+ - [Python](https://www.python.org/) Used for scripting and automation.
 
 
 ## Contributing
