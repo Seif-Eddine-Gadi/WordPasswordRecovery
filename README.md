@@ -53,6 +53,7 @@ If you don’t want to mess with Python and dependencies, you can download the p
 - **Click "Start":**  After selecting the file, click the Start button to begin processing the files.
 - **Check the "Result" folder:**  The app will automatically create a folder called Result in the directory of the selected files and place the processed files there.
 - **Once the process is complete:**  A success message will appear, and you can check the Result folder for the recovered documents.
+
 ## License
 
 [MIT](This project is licensed under the MIT License - see the LICENSE file for details.)
