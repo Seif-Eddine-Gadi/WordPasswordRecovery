@@ -21,7 +21,7 @@ Word Password Recovery is a Python application that helps in recovering password
 
 If you don’t want to mess with Python and dependencies, you can download the precompiled executable file (.exe) from the Releases section of this repository. Just download the file and run it directly on your Windows machine.
 
-### Option 1: Run Using Python (For Developers)
+### Option 2: Run Using Python (For Developers)
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Seif-Eddine-Gadi/WordPasswordRecovery.git
