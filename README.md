@@ -30,6 +30,10 @@ If you don’t want to mess with Python and dependencies, you can download the p
    ```bash
    cd WordPasswordRecovery
 
+3. **Navigate to the Source Code folder (if applicable):**
+   ```bash
+   cd "Source Code"
+
 3. **Create and activate a virtual environment (optional but recommended):**
    ```bash
    python -m venv venv
@@ -42,6 +46,7 @@ If you don’t want to mess with Python and dependencies, you can download the p
 5. **Run the application:**
    ```bash
    python script.py
+
 # Usage
 - **Open the application:** Once you have either installed or downloaded the executable, launch the application.
 - **Select the .docx file** The app will prompt you to choose a folder with .docx files that need to be processed.
